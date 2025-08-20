@@ -1,0 +1,53 @@
+SE - 
+	Introduction to IT
+	
+	Software ? Alarm
+		whatsapp,game,facebook , insta , 
+		MS-office
+		notpad
+		tops application
+
+	--> collections of programs
+	program?
+		collection of code
+		set of instructions
+		snooze , alart set 
+	
+
+	Programming ? 
+		To develop program/code programming
+		high level,low level...
+
+	IT Roles ?
+		backend develooper
+		frontend developer
+		data analyst/science
+		software developer
+		software tester
+		web designer
+								
+
+	SDLC ==  Software + Development + Life Cycle
+	phares / life cycle/process/steps
+
+	1. Requirement Gathering - to collect requirements from 				client
+				Eg. send/receive msg,send receive 					media file
+	2. Analysis
+		- each requirement should analyse
+		- detailing of each requirement
+		msg and media must be analysis
+	
+
+	3. Desgining
+		- how it looks /page
+		form , pages ,theme
+	4. Implementation/coding
+		- actual implementaion/coding is going
+	
+	5. Testing
+		- Validatation accorinngd to requirement wherther we are producing software ot not
+	6. Maintance
+		- when any updataion/new changes 
+		
+
+
