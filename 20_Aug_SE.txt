@@ -48,6 +48,84 @@ SE -
 		- Validatation accorinngd to requirement wherther we are producing software ot not
 	6. Maintance
 		- when any updataion/new changes 
+
+21th Aug
+
+	GIT account 
+
+	Assignment - Programming in C - Theory
+					Practical
+					Task 
+
+			
+		     OOPS
+			
+	Assessment - 
+	
+	Project - 
+					 	
+
+	Software  - application / collection of programs 
+	Program - collection of code
+	Programming - using programming we can create program
+
+	Procedure Language - each code is in terms of procedure/method/fucntion  - C
+
+	Object - each code is in terms of object - Java,python
+
+	WWW - World Wide Web
+		internet - conencted thru internet world 
+		Web Pages ? - Web sites which runs on browser
+		
+		request and response 
+		
+		Providing input borwser requesting for web page
+	
+Protocol - ? Rules 
+	http // https 
+
+SRS - Software Requirement Specification 
+
+	information related to project is there 
+	read 
+	comman for all people 
+	
+	Functional requirements
+	Non Functional Requirements 
+
+	Modules 
+	Technologies 
+	Test Plan
+	Resources 
+	Scedule
+	
+	Social Media/facebook
+
+	SRS - >
+		1. Functional Requirement 
+			->chat
+			->storeis 
+			->calls
+			->post
+			->like/comments/share
+		2. Non -fuctional		
+			->usablity
+			->performance
+		
+		Moduels - Users
+			  Advertisement
+			  Visiters 	
+			Post
+				->text,view,image
+
+
+
+
+	
+		Functional or Non-functional ?
+		Functionality ?
+
+	
 		
 
 
