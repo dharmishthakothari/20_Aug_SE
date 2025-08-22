@@ -127,5 +127,46 @@ SRS - Software Requirement Specification
 
 	
 		
+22nd Aug
 
+DFD 
+
+0th /Context Level - basic 
+1st Level process ,database, enity
+
+
+______________________________________________
+
+
+C - Programming 
+variables 
+Data Types 
+conditional stmt
+loops 
+break,continue,gotot
+array
+file
+structure
+
+C Program ? editor 
+
+program structure 
+1. include header files (library bulit-in functions)
+2. create function main  (execution starts from main()) 
+3. variable declaration
+4. block of stmts
+
+Compiler  - program that check where your file is correct or not
+
+printf - function (is use for specific task)
+"" - string/msg 
+; - to end stmt
+
+
+comment - non executable part , to give information 
+single line  //
+multiline comment  /* 	*/
+
+
+ 
 
