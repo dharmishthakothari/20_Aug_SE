@@ -163,10 +163,20 @@ printf - function (is use for specific task)
 ; - to end stmt
 
 
-comment - non executable part , to give information 
+comment - non executable part ,for documentation purpose
 single line  //
 multiline comment  /* 	*/
 
-
+@@@@@@@@@@@@@@@@Name@@@@@@@@@@@@@@@@@@
  
+data type - which type of data you are storing (char,numeric,true/false)
+variable - indetifier / which value may be changed 
+
+int number1;
+int number2;
+
+number1=100;
+number2=200;
+
+
 
