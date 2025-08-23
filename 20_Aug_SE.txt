@@ -179,4 +179,87 @@ number1=100;
 number2=200;
 
 
+23rd Aug
+
+C programming structure 
+printf - function 
+dev installation
+variable  - identifier ,which value may be changed 
+data type  - which kind of data we are storing in variable 
+
+int a;
+
+int - data type
+a - variable
+
+float f1;
+
+f1 = variable
+float = data type
+
+declaration and initilization 
+	-- Declaration means to decare variable or function
+	
+	int a;
+	
+	initilization 
+	a=0;
+
+single stmt i can do both declaration and initlization
+	int a=0;
+
+
+int a=1234567;
+long a=53432423423434234234234234234234234;
+
+float a=12.345656;
+double a=34.565645645645645654
+
+
+printf("%d",a);
+
+format specifier 
+
+Operators === 
+
+Arithmatic operators 
+ +
+ -
+ *
+ /
+ %
+
+printf - to printng
+scanf - to accept input from user 
+
+
+10/5 = 2
+10%2 =0 
+
+10%3 = 1
+
+a+b === + operator
+	a and operand
+
+a=10 b= 5
+
+a==b === 10==5 False
+a!=b     10!=5 True
+a>b      10>5  True
+a<b      10<5  False
+a>=b
+a<=b
+
+
+
+
+
+
+
+
+
+
+
+
+
 
