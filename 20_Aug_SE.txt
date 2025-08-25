@@ -251,6 +251,119 @@ a>=b
 a<=b
 
 
+25th Aug
+
+Logical 
+bit wise
+ternary operator
+
+
+Aritmetic -- +,-,%,/,*
+Relational  --- ==,!=<,<,>=<=
+
+Logical Operator &&
+		||
+		!
+	componde stmt 
+	to check 2 condition
+	a>b 
+	a>100
+
+	
+	a>b && a>100 = when both condition have true value
+	cond=1 is true and cond=2 is false 
+	a=10  , b=30 = False
+	a=200  , b=300 = False
+	a=200 , b=30 = True
+	
+	a>b || a>100 = when 
+		
+	Truth Table
+	a	b	&&	||
+	1	1	1	1
+	1	0	0	1
+	0	1	0	1
+	0	0	0	0
+
+	! - reverse 
+Assignment operator
+
+a=10;
+a=a+10;
+
+a+=10;
+a=a-10; 
+a-=10;
+
+a=a*5;
+a*=5;
+
+increment/decrement 
+
+a=a+1
+a+=1
+
+a++;
+a--;
+
+prefix and postfix
+
+++a;
+a++;
+
+a=5;
+++a
+a=6
+
+a=10;
+b=a++;
+printf("a= %d b=%d",a,b);
+c=++a;
+printf("a= %d c=%d",a,c);
+
+bits/bytes 
+
+
+computer 
+
+1
+5	=
+6
+7
+		2^4	2^3	2^2	2^1	2^0
+64	32	16	8	4	2	1			5 =	0	0	0	1	0	1		
+18 =	0	1	0	0	1	0
+20 = 	0	1	0	1	0	0
+15 = 	0	0	1	1	1	1
+&	0	0	0	1	0	0			
+|  	0	1	1	1	1	1		
+
+20 & 15
+
+
+
+
+
+
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
 
 
 
