@@ -340,8 +340,66 @@ computer
 
 20 & 15
 
+26th Aug
+
+Operator  - arithmatic
+		relational 
+		logical operator
+		bitwise 
+	
+	&
+	|
+
+ternary 
+condition ? true:false
 
 
+
+
+Conditional Statements 
+
+
+---> c,c++,python,java,php
+
+if 
+if -else
+if- else if
+
+syntax - if(condition)
+	{
+		stmt
+	}
+
+Positive
+	a=-100;
+	if(a>0)
+	{
+		printf("Number is Postive");
+	}
+
+
+-------
+Lab task : accept the age from user
+
+age =56
+user is adult
+
+age=4
+user is not adult
+
+age>=18
+
+if
+if else
+if else if
+
+Lab task
+
+age  0 - 18 minor
+19 - 60 Adult
+61-80 seniour
+80 - super seniur
+	
 
 
 
