@@ -400,6 +400,100 @@ age  0 - 18 minor
 61-80 seniour
 80 - super seniur
 	
+_______________________________________
+
+27th Aug
+
+if 
+if else
+if else if
+nested if
+
+
+if within if / nested if
+blood donate 
+1. age >18
+weight >50
+
+if (age>18)
+{
+	if(weight>=50)
+	{
+		print("User is eligible to donate");
+	}else
+	{
+		printf("User can not donate blood due to underwight");
+	}
+}
+else
+{
+	print("User is not eligilbe");
+}
+
+Switch case  
+
+when you have more conditions at that time else if that is not in redable form 
+
+switch case
+
+if(age>18 and age<=70)
+	Adult
+else if(age>70 and age<=90)
+	Senior
+else(age>91)
+	Super senior 
+	
+
+
+printf("1. Addition 2. Substraction 3. Multilication 4. Division");
+scanf("%d",&choice);
+if(choice==1)
+{
+	printf("%d",a+b);
+}
+else if (choice==2)
+{
+	printf("%d",a-b);
+}
+
+2nd way 
+switch(choice)
+{
+	case 1:printf("%d",a+b);
+		break;
+	case 2: printf("%d",a-b);
+		break;
+
+	case 3: printf("%d",a*b);
+		break;
+	case 4: printf("%d",a/b);
+		break;
+
+}
+
+Lab task 
+
+1. switch without break
+2. + Addition 
+   - Substraction 
+   * Multilication 
+   / Division
+
+
+
+c laguage 
+
+formate specifier printf digit %d,char %c,scanf %c
+%d
+%c
+%f
+%ld
+
+
+
+
+
+
 
 
 
