@@ -473,7 +473,7 @@ switch(choice)
 
 Lab task 
 
-1. switch without break
+1. switch without break 
 2. + Addition 
    - Substraction 
    * Multilication 
@@ -488,6 +488,146 @@ formate specifier printf digit %d,char %c,scanf %c
 %c
 %f
 %ld
+
+
+28th Aug
+
+loops
+
+Introduction ---> 
+
+software ?
+programming?
+program?
+SDLC - requirement , analysis , designing , implementation, testing,maintaince
+SRS
+DFD
+Client-server
+
+
+Software architecture ---> 
+
+modules ?
+modules - sub modules 
+structure 
+
+
+Social media 
+
+User  
+Admin
+Advertisement
+Post
+
+User-Post
+
+user interaction between user-post(login , text,audio,video
+
+programming audio
+
+admin
+advv
+Post
+
+
+
+
+Post ->can be text,video , media (type) , like,comment
+Services 
+Notification -> User ,Post feed
+
+
+Desktop , web - Mobile  --d->
+
+Mobile (whatsapp,insta,facebook,snapchat,) - 
+Web (google,which runs on browser ) - 
+desktop (install desktop app ms-office,calculator,MySql,dev c++) - 
+
+
+__________________________________________________
+
+python
+
+	print("Hello World")
+
+C
+	#include<stdio.h>
+	int main()
+	{
+		printf("Hello World");
+	}
+
+
+
+Looping
+
+repeatation - looping
+ 3 types of loop 
+	1. For
+	2. While
+	3. do ... while
+
+Lab
+print(Select day (1 ,2,3,4,5,6,7));
+1. Sunday
+2. Monday
+3. Tuesday
+4. 
+
+
+29th Aug
+
+Loops - repeatation / iteration
+	1. for
+	2. while
+	3. do....while
+
+1. for loop
+	for(initlization;condition;increment/decrement)
+	{
+		block
+	}
+
+	//declaratoin of variable i
+	int i;	
+
+	//initlization 
+	i=10;
+	
+	//declare and intilization
+	int i=100;
+	
+	for(i=0;i<=9;i++)
+	{
+		printf("Hello");
+	}
+	
+	5*1=5
+	5*2=10
+	5*3=15
+
+
+Lab task : accept number from user and display table
+
+sum of range ->
+start number : 10
+end number : 12
+
+10+11+12 =  32
+
+start number : 1
+end number : 15
+
+1+2+3+4+5+6+7+8....15 =  
+
+
+Lab task = multilication
+
+add condition 
+start no =200
+end no=100
+
+
 
 
 
