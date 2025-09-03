@@ -765,6 +765,23 @@ Operator  %
 
 Lab task  =sumettion of all digits 
 
+3rd Sep
+
+1. Addition
+2. Substraction
+3. Multilication
+4. Division
+5. Exit
+Enter your choice
+
+Lab task 
+
+1. Count no of Digit
+2. Sum of Digit
+3. Find even digits from number
+4. Reverse Number
+5. Exit
+
 
 
 
