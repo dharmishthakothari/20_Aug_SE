@@ -782,6 +782,57 @@ Lab task
 4. Reverse Number
 5. Exit
 
+4th Sep
+
+break , continue and goto
+
+*
+* *
+* * *
+* * * *
+
+break - break the loop/iteration
+
+continue - skip iteartion and continue with next iteration
+
+loop - 1-10 
+	accept number from user  break loop
+		input = 5
+		1
+		2
+		3
+		4
+		5
+
+	input = 8
+	1
+	2
+	3
+	..
+	8
+
+break === loop break 
+
+*
+*	*
+*	*	*
+*	*	*	*
+
+for(i=1;i<=5;i++)
+{
+	printf("*");
+}		
+
+row
+columns
+
+row 1 *
+row * *
+row 3 ***
+
+Lab task 
+	Pattern priting upto user input
+	break , continue and goto
 
 
 
