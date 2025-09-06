@@ -834,6 +834,136 @@ Lab task
 	Pattern priting upto user input
 	break , continue and goto
 
+5th Sep
+
+*
+* *	
+* * *
+* * * *
+
+1
+1	2
+1	2	3
+1	2	3	4
+
+row = 5
+1
+3	3
+7	7	7
+9	9	9	9
+11	11	11	11	11
+
+row = 4
+*	*	*	*
+*	*	*
+*	*	*
+*	*
+*
+
+________________________________
+
+row 4 
+*	*	*	*
+*	*	*
+*	*	*
+*	*
+*
+*
+* 	*	
+* 	*	*
+* 	* 	* 	*
+
+________________________
+row =4
+		*
+	       * *
+	      * * *	
+	     * * * *
+
+mitul
+
+m
+m	i
+m	i	t
+m	i	t	u
+m	i	t	u	l
+
+---------
+C ?
+variables 
+data types 
+conditional stmt
+loop ,switch
+break,continue, goto
+ factorial
+	fibo series 
+	even numbers
+	find digits 
+	
+	given no is prime number - no is divisable by 1 and itself
+	find prime numbers from 1-100
+	arithmatic progression series 
+6th Sep 
+	perfect number  = 153 1^3 + 5^3 + 3^3
+				1+125+27
+				 153
+
+	number = 23
+		2^2 + 3^2
+		4+9 = 13
+
+array - 
+students roll no - 5-10-50-100
+	int no1,no2,no3,no4.....no100;
+	
+definition --- collection of elements of same data type
+	       elements are stored in continues memory
+		no1 - no2-no3
+		array elements are accessed thru index
+		index starts with 0
+
+		int no[100];
+		manav_marks=90
+		mitul_marks=91
+		yogesh_marks=70
+
+		//declarinf array
+		int marks[5];
+		//intilization
+		marks[0]=90;
+		marks[1]=91;
+		marks[2]=70;
+		printf("%d",marks[4]);
+
+		//declaration and initlization 
+		int marks={90,91,70};
+		printf("%d",marks[1]);	
+
+
+no[0]=12;
+no[1]=34;
+10 array = 1-10
+print
+
+no[0]=1
+no[1]=2
+no[2]=3
+no[3]=4
+...
+no[9]=10
+
+
+
+			
+
+
+
+
+
+
+
+	
+
 
 
 
