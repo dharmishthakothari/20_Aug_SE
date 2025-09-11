@@ -992,13 +992,43 @@ Lab task find prime numbers from array
 
 reverse array 
 
+11th Sep
 
+array user input 
+--
+if(array[i]>max)
+{
+	max=array[i]
+}
+
+
+	11 
+	12,
+	21
+	9
+
+	max=0
+	max>=array[i](11)  0 >11   max=11
+	max>=array[i] (12) 11>12  max=12
+	max>=array[i](21)  12>21  max=21
+	
+Lab task : - Minimum number 
+Average of array elements  = 11,22,10,20 (63/4)
+			     1,2,3,4,5 (15/5)
+
+asending order smnall to big
+
+ 11,22,10,20
+  array[0] compare array[1]/[2][3]
+	11>22
+	
 	
 
-
-
-
-
+Lab task : menu driven 
+	find max value from array
+	find min value from array	
+	Print array in acesing array
+	Print array in desending array
 
 
 
