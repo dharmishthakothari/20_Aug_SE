@@ -1031,14 +1031,117 @@ Lab task : menu driven
 	Print array in desending array
 
 
+2 D array
+
+collection of similar types of elements 
+num[]
+
+row by column
+
+numbers[]
+numbers[][]
+numbers[row][column]
+	col1	cole2	col3
+row 1 - 1	2	3
+row 2 - 4	5	6
+row 3 - 7	8	9
+
+int matrix[][]={{1,2,3},{4,5,6},{7,8,9}}
+
+________________________________________
+
+
+	col1	col2
+row1	1	2
+row2	12	56
+row3	67	90
+
+int matrix[][]={{1,2},{12,56},{67,90}}
+
+
+Multilication array
+
+sum of all array elements 
+
+sum=sum+matrix[i][j];
+
+find ublicate items from array
+
+input {1,2,3,3,2}
+output {2,3}
+
+13th Sep
+
+2 matrix addition ---
+  0	1	2
+0 1	2	3
+1 2	3	4
+2 3	7	9
+
+value (0,0) (1,1) 9 = (2,2) 4 =(1,2)
+
+
+12	2	12
+2	6	7
+4	7	9
+
+answer 13	4	15
+	4	9	11
+	7	14	18
+
+	
+_______________________________
+
+12	2	12
+2	6	7
+4	7	9
+
+
+12+6+9 = 27
+
+
+12	2
+2	3
+
+12+3 = 15
+
+
+12	2	3	4
+2	3	5	5
+
+invalid 
 
 
 
 
+diagonal 
 
+12	23	1
+3	3	4
+23	7	33
 
+12+3+33
 
+12	3
+3	8
+12+8
 
+	i=0j=0  	i=0j=1  	i=0 j2  	i=0 j=3
+	12		23		8		7
+	i=1 j=0 	i=1 j=1		i=1 j=2		i=1 j=3
+	12		23		8		7
+	i=2 j=0 	i=2 j=1		i=2 j=2		i=2 j=3
+	1		6		5		4
+	i=3 j=0 	i=3 j=1		i=3 j=2		i=3 j=3
+	5		7		2		1
+
+12+23+5+1
+
+matrix 
+
+12	2	3
+12	2
+3	4	4
 
 
 
