@@ -1144,9 +1144,54 @@ matrix
 3	4	4
 
 
+15th Sep
+
+-->Functions  - piece of code to have specific task,
+		use many times 
+		
+		2 types 
+		1.	user defined function - we will create function (main() , .....)
+		2. built in function - library functions (printf,scanf,strlen,strcpy)
+			
+-->definition
+   implementation
+   calling
+
+deifintion --- >  
+		syntax			
+			returntype name(paramter)
+			{
+				stmt
+			}
+
+	To create function which print "hello World"
+			void greet()
+			{
+				printf("Hello world");
+			}
+
+			
+					
+	To create function check number is negative/positive
+
+			
+calling --
+		greet();
+			
 
 
 
+
+--to add 2 numbers 
+
+menua driven program - 
+1. addition
+2. substract
+3. muliplcation
+
+	
+Write a function Check whether a year is leap year with and without using if-else.
+	
 
 
 
