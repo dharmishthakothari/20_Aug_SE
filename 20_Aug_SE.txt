@@ -1192,6 +1192,29 @@ menua driven program -
 	
 Write a function Check whether a year is leap year with and without using if-else.
 	
+16th Sep
+LAB TASK - 2 functions 1. Check number is arstrong
+			2. print 1 -100 prime numbers
+
+
+recurive function
+
+
+LAB TASK - function to interesection of 2 arrays (1D)
+		arr1 = {1,2,3,56,22}
+		arr2 = {3,2,1,45,6}
+		ans= {2,3,1}
+2. Create function to count frequnence of elements 
+		arr1 = {1,2,3,56,22,1,2}
+		1 -- >2
+		2 -->2
+ 		3 ---> 1
+		56 -->1
+		22 --->1
+
+	
+
+
 
 
 
