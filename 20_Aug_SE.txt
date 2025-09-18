@@ -1212,10 +1212,78 @@ LAB TASK - function to interesection of 2 arrays (1D)
 		56 -->1
 		22 --->1
 
+		arr[i]=====arr[i+1] , arr[i+2], arr[i+3]
+
 	
+		12
+		23
+		26
+		12
 
+		0th element 12 check with 3 elements  if value found count++
+		1st element 23 check with 3 element if found count++
+		
+			0,0   0,1
+		matrix 1	2
+		        1,0    1,1
+			3	4
 
+			0,0 == 0,0  0,0 =0,1
+		matrix 11	      12
+			13	       4
 
+		matrix1 [i][j] = fix
+
+18th Sep
+
+	- array frequence coutn
+	- intersection from 2d matrix
+	
+	String --- group of character/sequnece of character
+		  char ch;
+		ch='D';
+		ch="Manav";
+		char name[20];
+		name="Manav";
+		
+	
+	strlen
+	strcpy
+	strcmp
+	strco
+
+	name="Rushi"
+	output---uh
+	name="subham"
+	output--uhm
+		
+Lab task -- find no. of vowels from given string
+
+	name = "Shubham"
+	name1[20];
+
+	strcpy(destnation,source)
+	strcpy(name1,name)
+	
+strcat - joint 2 strtings strcat
+	name , surname
+	full_name = name+surname
+
+	name="Manav"
+	name1="Manav"
+
+Lab task : Enter one string as fixed 
+		enter another string until user has not entered fixed string
+		name = "Manav"
+		name1="Rushi"
+		name1="Shubham"
+		name1="Mahesh"
+		name1="Manav"
+		stop
+
+	compare - break , 
+		
+	
 
 
 
