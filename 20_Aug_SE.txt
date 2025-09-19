@@ -1284,6 +1284,17 @@ Lab task : Enter one string as fixed
 	compare - break , 
 		
 	
+19th Sep
+	String function 
+	File Handling ? document , data store, when permanent
+
+	openining
+	mode - read,write,append
+	close
+
+
+Lab task - Line by Line read data from file
+
 
 
 
