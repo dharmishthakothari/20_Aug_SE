@@ -1295,7 +1295,14 @@ Lab task : Enter one string as fixed
 
 Lab task - Line by Line read data from file
 
+22nd Sep - add data from console to file until user enters "END"
 
+	fputs
+	fprintf find a difference
+
+--- 2 -  file read data from 1 file and write data to another file
+
+	Array of structure try it
 
 
 
