@@ -1304,6 +1304,39 @@ Lab task - Line by Line read data from file
 
 	Array of structure try it
 
+25th Sep 
+
+Pointer - It stores address 
+
+a = 200
+b i want to store address of 'a'
+b=a //value
+
+int *b;
+b=&a; / storing address pf a
+
+calloc --- try it by yourself 
+
+C++
+
+OOPS - class
+		object
+		polymorphisum
+		inheritance
+		Encalsupaltion
+		Abstraction
+
+	arrays
+ 	data types
+	loops
+	inline function , virtual function ,friend function
+	file handling
+	string functions
+	
+
+
+
+
 
 
 
@@ -1320,6 +1353,7 @@ Lab task - Line by Line read data from file
 
 
 	
+
 
 
 
