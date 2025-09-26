@@ -1,0 +1,23 @@
+// C++
+// Programming language 
+// extended version of C language
+//diffenece between c and C++
+//	C - Procedure language C ++ - Object Oriented/Hybrid
+// method/function C++ functions , class (data,functions)
+// printf/scanf , cout/cin
+//C++ object oriented features 
+//	1. class 2. Object 3. Encapsulation 4. Inheritance 5. Polymorphisum 6. Abstractions
+
+//if for switch array
+ 
+cout - console output 
+<< - operator  extract
+
+cin - console input
+>> - input 
+
+---> 2 arrays sum all elemetns 
+	1	1			2	3			ans	3	4 	
+	1	2			1	3				2	5
+
+--> diagonal element sum 1 array
