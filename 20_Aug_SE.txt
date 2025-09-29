@@ -1333,9 +1333,53 @@ OOPS - class
 	file handling
 	string functions
 	
+29th Sep 
+
+functions  ?
+	strcmp
+	strcat
+	printf  
+	Specific task run - 
+	2 types - user and in build 
+	functions ? name
+		paramters
+		return type
+SCOPe - global and local
+
+variable access --- :: operator scope resolution
+     
+OOP - Object Oreinted Programming
+
+class  --- blueprint/ structure/not real entity/collection of objects
+		--- data , functions
+			state , behaviur
+		human - hands,leges ,head,nose function- speak,eat,sleep 
+		car - wheet,streaing,seats,door function - ride
+
+object - real entity /type of class /access all data/function tru objects
+class Person
+{
+	int age;
+	string name;
+	void getData()
+	{
+		cout<<"Enter Age";
+		cin>>age;
+	}
+	void display()
+	{
+	cout<<name<<age<<endl;
+}
+
+each object have it's own data and function
+}
+Lab task - Car (c_name,wheels,name,engine - getData , display)
+				i10
+				creata
+				baleno
 
 
-
+				
 
 
 
@@ -1353,6 +1397,7 @@ OOPS - class
 
 
 	
+
 
 
 
