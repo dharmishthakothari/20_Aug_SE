@@ -21,3 +21,57 @@ cin - console input
 	1	2			1	3				2	5
 
 --> diagonal element sum 1 array
+
+
+30th Sep
+arrray of class
+inline function
+	Inheritance 	- Parent child - Property of one class can use property of antoher class
+Parent property child class can use it
+
+Person - name ,age
+Employee - name,age,salary ,department   (name and age can inherit/take from Person)
+
+-Resuability 
+
+Types 
+-Single Inheritance
+		onr parent , one child
+		class Person ---Employee
+
+-Multilevel Inheritance
+		Grandparent - Parent - Child
+child can use property of parent and Grandperent also
+
+-Multiple inheritance
+Mother -Child
+Father - Child
+
+
+-Hirchical
+Class1 
+class2 extends Class1
+class3 extends Class1
+
+
+
+-Hybrid
+  mixing any of above
+
+Vehical (color,engine,price)
+Car (brand ,model)
+
+getDetails()
+display()
+
+
+
+
+
+
+
+
+
+
+
+
