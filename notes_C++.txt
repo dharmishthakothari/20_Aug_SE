@@ -65,6 +65,16 @@ getDetails()
 display()
 
 
+1st Oct 
+
+Shape class , Circle ,Rectangle class
+Circle extends Shape 
+Rectangle extends Shape
+
+
+
+super keyword is use to call super class member - contructor
+
 
 
 
