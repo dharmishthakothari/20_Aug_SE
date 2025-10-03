@@ -75,6 +75,23 @@ Rectangle extends Shape
 
 super keyword is use to call super class member - contructor
 
+3RD oCT
+
+Contructors
+		Constrcotrs are special methods to initilize objects
+		constructor have same name as class name
+		contructor called automatically
+		constructor does not return anything
+
+	Constructor vs methods
+
+In a single class we can have multiple contructor with different paramater
+
+inheritance Person - Employee
+Person Contructor Employee
+
+	
+
 
 
 
