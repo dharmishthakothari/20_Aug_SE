@@ -122,8 +122,54 @@ Method overload ---  Person (name,age,c_no) display(name,age) , display(name,age
 
 this ---> is a keyword with reference to current object
 
+6th Oct
+		Polymorpshium - Compile  - method overloding - same method name and paramaeters are diffrent - Operator Overlading
+						Run time - method overriding - same method name same paramters (inheritance)
 
-	
+class Test print() can be use  to print name,int number and character  - user method overloadiing concept
+
+
+12+23
+int number1,number2;
+num1-num2
+number1*number2;
+
+Point p,p1
+
+p+p1
+
+++
+--
+
+int i=10;
+i++;
+cout<<i;//11
+
+int i=10;
+++i;
+cout<<i;//11
+
+Lab task --- > Number class - val (- operator overload)
+			Number n(23)
+			-n;
+			-23
+
+			Number n(90)
+			-n;
+			-90
+
+Which operator can not overload
+
+-- Create Distance class (feet,inches ) Perform all arithmatic oprations (+,-,*,/)
+--Point overload (>=,<=)
+
+23>=34 -= true
+
+
+
+
+
+
 
 
 
