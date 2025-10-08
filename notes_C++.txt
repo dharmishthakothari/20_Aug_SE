@@ -165,6 +165,59 @@ Which operator can not overload
 
 23>=34 -= true
 
+8th Oct 
+
+		inheritance
+		class 
+		object
+		polymorphisum  - compile time (overlading method-operator ) /run time  (method overriding same name same argument parent-child)
+		array
+		condiitons stmt
+		looping
+
+Runtime Polymorphisum - Method overriding - (same name same argument parent child)		
+
+lab task : create class Car - drive() virtual 
+						Maruti --->Car method override drive() - maruti car inforamtion print
+						Hundai -->Car drive() - hundai information print
+
+	Parameters - constructor 
+
+-->Abstract  complex hide ,show only essesntial details 
+				Car engine ,color,price 
+					internal egine?
+		achive pure virtual function ---> 
+//not pure
+		virtual int calculateArea() 
+		{
+			cout<<"sdfsdfsdf"
+		}
+
+//Pure virtual function
+only declaration no body 
+	virtual int calculateArea() =0
+		
+abstract class vs class
+abstract class contains pure virtual function 
+you can not create instance of abstract class	
+
+
+----
+virtual function - run time polymorphisum 	-	method overriding - method same name and same argument -calculareArea
+pure virtual function - abstractions - just declaration - =0 - next class must implement this virtual method.
+
+Lab Task -->Bank class --- pure virtual calculateInterest()
+			SBI  - override calculateInterest and return interest amount
+			HDFC  - override calculateInterest and return interest amount
+
+
+
+public - private -protected 
+							
+
+
+
+
 
 
 
