@@ -215,11 +215,61 @@ Lab Task -->Bank class --- pure virtual calculateInterest()
 public - private -protected 
 							
 
+9th Oct 
+
+Abstract vs Non abstract 
+
+1. abstract class contains pure virual fucntion-non virtual function fucntion  - non abstract class not contains any pure virtual function 
+2. pure virtual function must override and simple function tyhat may or may not override 
+3. abstract pointer address 
+4. object creation 
+
+private - procted - public 
+ public all over
+protected within classand sub class
+private class iteself
+
+Lab Taks : 
 
 
+class Shape 
+{
+};
+class Rectangle : public Shape
+{
+}
+class Circle :procted Shape
+{
+};
+class Square : private Shape
+{
+};
+
+-----------------------
+
+virtuaal function 
+pure virtual 
+inline
+
+friend function ---> private 
+friend class
 
 
+Employee Constructor (name,salary,department)
+			salary private - display with friend function
 
+
+static ? --- belongs to class not object 
+			obj.a
+			A.a
+			accessing thru class 
+			college 
+			students - dept , name ,roll , address.....
+						college name (static )
+			all the object share static data 
+
+static - file - string fucntion 
+		
 
 
 
