@@ -270,11 +270,41 @@ static ? --- belongs to class not object
 
 static - file - string fucntion 
 		
+10th Oct 
+		static
+
+public-procted - private  --- access modifers 
+public - accessible all over
+protected -  sub class / inherited class 
+private - same class
+
+friend - private can be accessible thru friend function
 
 
+friend class- friend function
+
+static ? 
+ to initlize only once 
+access thru class 
+class not from object
+
+static data we can use in static method 
+
+static i 
+static method
+displayA
 
 
+File Handling ---
 
+create 
+open
+read
+write
+
+3 ifstream
+  ofstream 
+	fstream 
 
 
 
