@@ -27,4 +27,9 @@ DQL - Data Query Language - filter -select
                                     columnName datatype(size) constraints ....)
     
 
+        dataytpe ? Which kind of data you want to store ..
+                numeric
+                varchar
+
+
 
