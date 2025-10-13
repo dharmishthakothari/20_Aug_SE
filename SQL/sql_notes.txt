@@ -1,0 +1,30 @@
+13th Oct
+    database ? data store , tabular form , permananet store , 
+              collection of data , stores data permanent 
+  
+              Mysql , Oracle , SQLLite , postgre ,MS-access ..
+
+  DBMS - Database management system --- manage ,manipulate - DBMS 
+  RDBMS - Relational database managent system - tables are related 
+        eg. Mysql , Oracle , SQLLite , postgre ,MS-access 
+
+  Tools - MYSQL server - Mysql Workbench 
+          SQLServer installation 
+          Ms-access 
+  
+  
+    SQL --- > Structure Query language ---database apply 
+
+DDL - Data definition Lanaguge - table related - create , alter , drop
+DML - Data manipulation Language - data related - insert , update , delete 
+DCL - Data control Language - permission - grant - revoke 
+DQL - Data Query Language - filter -select 
+
+1. CREATE  - data/information  - Person  name-id-c_no-city-age - Student r_no,name,class,schoolName,age
+      
+      create table <<table_name>> (columnName datatype(size)  constraints , columnName datatype(size) constraints , 
+                                    columnName datatype(size) constraints , 
+                                    columnName datatype(size) constraints ....)
+    
+
+
