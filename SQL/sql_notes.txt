@@ -28,8 +28,34 @@ DQL - Data Query Language - filter -select
     
 
         dataytpe ? Which kind of data you want to store ..
-                numeric
-                varchar
+                numeric- int
+                varchar - string 
+                datatime 
+                decimal - float
+                object - resume,images 
+
+        constraints ? limitation/boundry 
+            1. Primary key --roll_no,eid , email_id To Uniquely indetify record , it's NOt NULL
+            
+        
+            installation  - MYSQL Server - command base 
+                            Mysql workbench - GUI
+            
+
+        database ? 
+1. create database 
+    
+    create database <<database_name>>  
+
+--- > create database 20_Aug_SE
+--> use 20_aug_se
+--> create table person (pid int ,
+					pname varchar(20),
+					paddress varchar(200))
+
+
+
+
 
 
 
