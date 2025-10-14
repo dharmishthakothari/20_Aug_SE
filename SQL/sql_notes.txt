@@ -53,9 +53,50 @@ DQL - Data Query Language - filter -select
 					pname varchar(20),
 					paddress varchar(200))
 
+14th oct :
+	DDL --- create  ,alter ,drop 
+
+--> describe person
+
+table add column , change/modify , drop column
+
+ alter command
+
+alter table <<table_name> add <<coumn name>><<datatype><<size>>
+
+-->  alter table person add contact_no int
+--> alter table person drop paddress
+
+drop table -->permanent delete 
+
+--> drop table person
+
+employee  --- eid ,ename,salary
+			-- alter address,co_no
 
 
+containts --> Boundries /limitation /rules 
 
+1. Primary key 		--	Uniquely indetify record roll_no , eid , aadhar_card  NOT NULL , table contains 1 PK
+2. Foreigh key		
+3. Unique key		-- Uniquely indetify records , table may contains more uniques key , it allows one value as NULL value
+4. not Null			--  not allowed null items
+5. Default			-- set default item
+6. Check			-- age>18
+
+---> create table student(roll_no int primary key,
+					studentName varchar(20) Not null,
+					city varchar(20) default "Ahmedabad",
+                    age int check (age>5))
+
+
+INSERT command to enter record/data 
+
+insert into table_name(col1,col2...) values(val1,val2...)
+
+-->insert into student(roll_no,studentname,age) values (1,"Mahesh",20)
+
+			
 
 
 
