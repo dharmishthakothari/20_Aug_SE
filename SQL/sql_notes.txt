@@ -96,7 +96,59 @@ insert into table_name(col1,col2...) values(val1,val2...)
 
 -->insert into student(roll_no,studentname,age) values (1,"Mahesh",20)
 
+
+15th Oct 
+
+DML -DATA  insert , update and delete 
+
+
+update 
+delete 
 			
+insert into student values(101,'Manav',"Baroda",20),
+                  (102,'Vasai',"Baroda",12),
+                            (103,'Subham',"Ahmedabad",20),
+                          (104,'Rushi',"Surat",25),
+                          (105,'Mahesh',"Rajkot",17);
+                        
+
+
+update student set city="Jamnagar" where roll_no=102;
+
+delete from student where roll_no=104;
+
+select * from student;                          
+
+
+select Query --- > Filter data -- it won't affect data 
+
+select * from student 
+
+select roll_no , address from student
+
+-->fetch only those students whose age is greater then 20
+
+select * from student where age>=20
+
+-->Fetch those students whose age is between 20 and 25
+
+select * from student where age between 15 and 20;
+
+-->fetch student records whose age is greater then 20 and roll_no is greater then 103
+
+select * from student where age>20 and roll_no>103;
+
+-->fetch student records whose age is greater then 20 or roll_no is greater then 103
+
+select * from student where age>20 or roll_no>103;
+
+clause - where , between and ,and ,or , in 
+
+in 
+-->fetch students records who are linving in baroda and surat
+select * from student where city in("Baroda","Surat","Delhi");
+
+--> 
 
 
 
